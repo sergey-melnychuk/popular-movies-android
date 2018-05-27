@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="error_message">Check internet connection</string>
+    <string name="menu_top_rated">Top Rated</string>
+    <string name="menu_popular">Popular</string>
+    <string name="menu_starred">Starred</string>
+    <string name="menu_share_title">Share</string>
+
+    <string name="title_popular">Popular</string>
+    <string name="title_toprated">Top Rated</string>
+    <string name="title_starred">Starred</string>
+
+    <string name="no_items_available">No items avaulable</string>
+</resources>
